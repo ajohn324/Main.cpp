@@ -1,0 +1,39 @@
+// Poem.cpp
+// Anthony Vasquez
+//3/19/2022
+// CMPR 120
+// My Favorite Poem
+// This program will display the peom Bath Song by J R R Tolkien
+
+#include <iostream> 
+using namespace std;
+
+int main()
+{
+    cout <<" Name: Anthony Vasquez" << endl;
+
+    cout <<"\n\n Bath song" << endl;
+
+    cout << "\n By: J R R Tolkien" << endl;
+    cout <<"Sing Hey! For the bath at close of day" << endl;
+    cout << "that washes the weary mud away" << endl;
+    cout << "A loon is he that will not sing" << endl;
+    cout << "O! Water Hot is a noble thing!" << endl; 
+  
+    cout << "\n\nO! Sweet is the sound of falling rain," << endl;
+    cout << "and the brook that leaps from hill to plain;" << endl;
+    cout << "but better than rain or rippling streams" << endl;
+    cout << "is Water Hot that smokes and steams." << endl; 
+
+    cout <<"\n\n O! Water cold we may pour at need" << endl;
+    cout << "down a thirsty throat and be glad indeed" << endl;
+    cout << "but better is beer if drink we lack," << endl;
+    cout <<"and Water Hot poured down the back." << endl;
+
+    cout <<"\n\n O! Water is fair that leaps on high" << endl;
+    cout << "in a fountain white beneath the sky;" << endl;
+    cout << "but never did fountain sound so sweet" << endl;
+    cout << "as splashing Hot Water with my feet!" << endl;
+
+    return 0;
+}
